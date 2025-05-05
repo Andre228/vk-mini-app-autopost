@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  text-align: center;
+}
+
+input, button {
+  margin: 10px;
+}
